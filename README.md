@@ -8,5 +8,6 @@ Fun facts:
  C++ actually a good language </>  
  The third best feeling in the world is coding all night ⚙️  
  Assembly is my arch enemy 👾  
- Programing isnt hard its just not for everyone ⚠️  
+ Programing isnt hard its just not for everyone ⚠️   
+ My thesis is making a Hearthstone Baattlegrounds tracker my biggest project yet 🂡
 
